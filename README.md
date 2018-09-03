@@ -39,5 +39,5 @@
 - Microsoft Officeが使えない人やスマホ等でも履修計画を立てたい人用に、[Google スプレッドシート](https://www.google.com/intl/ja_jp/sheets/about/)での使用も想定しています
 - [Google スプレッドシート版の履修計画表のテンプレート](https://docs.google.com/spreadsheets/d/1usg5lzeDgkzvgl697t3ru0yCjUelHW0zKdADbsnCdnw/edit?usp=sharing)を公開しています
     - 上記リンクにアクセス後、ファイルタブから「コピーを作成」を選択して、ご自分のGoogle Drive領域に保存し、出力されたCSVをインポートしてお使い下さい
-    - 基本的な動作はExcel版と同様です。[Excelファイルの項目](#Excelファイル)をご参照下さい。
+    - 基本的な動作はExcel版と同様です。[Excelファイルの項目](#excelファイル)をご参照下さい。
 - その他、なにか他の用途があれば、ご自由にお使い下さい
