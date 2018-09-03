@@ -1,0 +1,5 @@
+et-xmlfile==1.0.1
+jdcal==1.4
+openpyxl==2.5.6
+selenium==3.14.0
+urllib3==1.23
