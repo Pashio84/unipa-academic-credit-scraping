@@ -5,4 +5,3 @@ csv_results/*
 !.gitkeep
 drivers/*
 !.gitkeep
-recode.xlsx
